@@ -6,6 +6,8 @@ TeleMouse was created mainly for web surfing, but it’s flexible enough to be u
 It’s especially useful in situations where using a physical mouse is inconvenient — for example, when you’re leaning back in your chair or lying in bed and want to switch a series on Netflix or scroll through YouTube. Or even when your hands are dirty (e.g. eating chips or chicken) and you don’t want to touch your devices. Most users will find their own use case.
 
 ---
+[![Watch the video](https://img.youtube.com/vi/PBKw3ugpbB4/0.jpg)](https://www.youtube.com/watch?v=PBKw3ugpbB4)
+---
 
 ## Features
 
