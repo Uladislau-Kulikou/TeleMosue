@@ -43,7 +43,7 @@ Currently available only for **Windows** via MSI installer.
 
 | Gesture | Action |
 |--------|--------|
-| ![](assets/palm.png) Right |  | Mouse moving mode |
+| ![](assets/palm.png) Right | Mouse moving mode |
 | ![](assets/r_fist.png) Right | Scrolling mode (supports horizontal scroll). |
 | ![](assets/l_fist.png) Left | Volume regulation. |
 | ![](assets/lmb.png) Right | Left mouse button. Supports drag and double click. |
