@@ -38,18 +38,18 @@ Currently available only for **Windows** via MSI installer.
 
 ##  Gestures
 
-| Gesture | Hand | Action |
-|--------|--------|--------|
-| ![](assets/palm.png) | Right | Mouse moving mode |
-| ![](assets/r_fist.png) | Right | Scrolling mode (supports horizontal scroll). |
-| ![](assets/l_fist.png) | Left | Volume regulation. |
-| ![](assets/lmb.png) | Right | Left mouse button. Supports drag and double click. |
-| ![](assets/rmb.png) | Right | Right mouse button. Supports drag and double click. |
-| ![](assets/back.png) | Right | Emulates Alt+Left (Go to the previous page in browsers.) |
-| ![](assets/f.png) | Right | Emulates F key (Fullscreen on media players. Sometimes doesn't work). |
-| ![](assets/horns.png) | Right | Disables the reaction to all gestures except for itself. |
-| ![](assets/ring.png) | Right | Presses Alt+Tab allowing you to navigate to any opened program. |
-| ![](assets/ring_l.png) | Left | Emulates Ctrl+Tab allowing you to navigate to any opened website. |
+| Gesture | Action |
+|--------|--------|
+| ![](assets/palm.png) Right |  | Mouse moving mode |
+| ![](assets/r_fist.png) Right | Scrolling mode (supports horizontal scroll). |
+| ![](assets/l_fist.png) Left | Volume regulation. |
+| ![](assets/lmb.png) Right | Left mouse button. Supports drag and double click. |
+| ![](assets/rmb.png) Right | Right mouse button. Supports drag and double click. |
+| ![](assets/back.png) Right | Emulates Alt+Left (Go to the previous page in browsers.) |
+| ![](assets/f.png) Right | Emulates F key (Fullscreen on media players. Sometimes doesn't work). |
+| ![](assets/horns.png) Right | Disables the reaction to all gestures except for itself. |
+| ![](assets/ring.png) Right | Presses Alt+Tab allowing you to navigate to any opened program. |
+| ![](assets/ring_l.png) Left | Emulates Ctrl+Tab allowing you to navigate to any opened website. |
 
 
 ---
